@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Star Wars IV: A New Hope"
+cat < /dev/tcp/towel.blinkenlights.nl/23
