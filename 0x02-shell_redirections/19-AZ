@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Alchemy of Zion" | tr 'Ac' 'Ze'
+tr 'Ac' 'Ze'
