@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c1 | tr -d '\n'
+"Elizabeth it is in vain you say\nLove not— thou sayest it in so sweet a way:\nIn vain those words from thee or L.E.L.\nZantippe\'s talents had enforced so well:\nAh! if that language from thy heart arise,\nBreath it less gently forth—and veil thine eyes.\nEndymion, recollect, when Luna tried\nTo cure his love—was cured of all beside—\nHis follie—pride—and passion—for he died." | cut -c1 | tr -d '\n'
