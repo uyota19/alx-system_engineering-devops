@@ -1,2 +1,0 @@
-#!/bin/bash
-i=0; for d in $(find / -mindepth 1 -maxdepth 1 -type d); do if [ $((i%2)) -eq 0 ]; then echo $d; fi; i=$((i+1)); done
