@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "input" | tr 'Ac' 'Ze'
+echo "Alchemy of Zion" | tr 'Ac' 'Ze'
